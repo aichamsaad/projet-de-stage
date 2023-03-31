@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewVerification" type="id">verification</item>
+    <item name="imageView" type="id">image</item>
+    <item name="textViewSendOTP" type="id">sendOTP</item>
+    <item name="textViewMobileNumber" type="id">mobile</item>
+    <item name="textView212" type="id">text</item>
+    <item name="editTextMobileNumber" type="id">mobile number</item>
+    <item name="linearLayout" type="id">linearlayout</item>
+    <item name="bottomAppBar" type="id">bottomAppBar</item>
+</resources>
